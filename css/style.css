@@ -1,0 +1,88 @@
+.orange-color{
+
+    background-color: #FEEAE9;
+    /* font-size: 300px !important; */
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+.btn{
+    color: red;
+    font-size: 20px;
+    border: 1px solid red;
+    border-radius: 20px;
+    /* max-resolution: ; */
+    margin-top: 20px;
+    
+}
+.btn:hover{
+    background-image: linear-gradient(to right, red, blue);
+    color: #fff;
+}
+.row{
+    
+    /* margin-top: 100px; */
+    padding: 40px;
+    /* margin-left: px; */
+}
+.categories{
+    color: #fff;
+}
+.cat1, .cat2, .cat3{
+    padding:  10px 20px;
+    border-radius: 20px;
+    /* margin-right: 5px; */
+}
+.categories img{
+    /* width: 100px; */
+}
+.cat-style{
+    width: 100px;
+    /* height: 180px; */
+}
+.cat1{
+    background-color: orange;
+    /* padding: 50px; */
+}
+
+.cat2{
+    background-color: red;
+
+    
+}
+
+.cat3{
+    background-color: blue;
+}
+.card{
+    padding: 20px;
+    border-radius: 10px;
+    /* background-color: a; */
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.watches img{
+    width: 200px;
+}
+.subscribe{
+    background-color: #FEEAE9;
+    padding: 70px;
+    border-radius: 5px;
+    margin-top: 80px !important;
+}
+.sub-now{
+    background-color: red;
+    font-size: 20px;
+    padding: 5px;
+    border: 1px solid red;
+    border-radius: 10px;
+    /* max-resolution: ; */
+    margin-top: 10px;   
+}
+footer{
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    margin-top: 50px;
+}
